@@ -1,5 +1,5 @@
 # QR Code Studio - Teste para desenvolvedor | Supranet
-
+Teste
 
 Este documento contém um assessment técnico para avaliar conhecimentos técnicos para a vaga de desenvolvedor da Supranet. 
 
